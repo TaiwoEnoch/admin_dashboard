@@ -1,2 +1,2 @@
 # Practice
-I create this PR to feature practice of all kinds
+This repository is created to design an Admin Dashboard for enhancing my Reactjs knowledge.
